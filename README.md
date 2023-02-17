@@ -8,7 +8,7 @@
 - [Connect to APIs](https://github.com/jakeenea51/Plan-A-Headstarter#connect-to-apis)
 - [Start server](https://github.com/jakeenea51/Plan-A-Headstarter#start-server)
 - [Host server to public URL using ngrok](https://github.com/jakeenea51/Plan-A-Headstarter#host-server-to-public-url-using-ngrok)
-- [Add users to groups](https://github.com/jakeenea51/Plan-A-Headstarter#add-users-to-group)
+- [Add users to groups](https://github.com/jakeenea51/Plan-A-Headstarter#add-users-to-groups)
 
 ## Description
 
